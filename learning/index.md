@@ -33,5 +33,5 @@ explorer](https://www.complexityexplorer.org/courses/89-introduction-to-complexi
 Instructor: Melanie Mitchell.  
 
 **Library preparation for Next-generation sequencing**:
-[courses@CGR](http://www.crg.eu/en/events/NG_library2014).  
+[Courses@CGR](http://www.crg.eu/en/events/NG_library2014).  
 Organizer: Heinz Himmelbauer.  

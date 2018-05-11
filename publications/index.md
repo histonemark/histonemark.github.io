@@ -24,6 +24,11 @@ Epigenetics and Systems Biology. ISBN: 978-0-12-803075-2. Academic Press.
 
 ## Conferences
 
+**The biology of genomes** [2017
+Edition](https://meetings.cshl.edu/meetings.aspx?meet=GENOME&year=17).  
+Clustering of Drosophila housekeeping promoters facilitates their expression.
+[Poster
+download](https://www.dropbox.com/s/x3qzs4xs37i1cnb/Marc%20Corrales%20BOG%20%28Guillaume%20Filion%29.pdf?dl=1).   
 
 ## Thesis Dissertation
 
