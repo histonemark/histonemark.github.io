@@ -91,7 +91,7 @@ header .fa-heart {
 
 #home #nav-home a,
 #posts #nav-posts a,
-#projects #nav-projects a,
+#projects #nav-learning a,
 #papers #nav-papers a {
   font-weight:700;
   color:#333;
@@ -99,7 +99,7 @@ header .fa-heart {
 
 #home #nav-home a:hover,
 #posts #nav-posts a:hover,
-#projects #nav-projects a:hover,
+#learning #nav-learning a:hover,
 #papers #nav-papers a:hover {
   color:#B1C2B3;
   text-decoration:underline;

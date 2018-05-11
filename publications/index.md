@@ -28,6 +28,7 @@ Epigenetics and Systems Biology. ISBN: 978-0-12-803075-2. Academic Press.
 ## Thesis Dissertation
 
 **Marc Corrales**. ["Text in context: Chromatin effects in gene
-regulation"](https://www.dropbox.com/s/65g5s6578arv4ko/Thesis_MCB.pdf?dl=1).
-Defended with Cum laude at [Center for Genomic
-Regulation](http://www.crg.eu) and [Universitat Pompeu Fabra](https://www.upf.edu/).
+regulation"](https://www.dropbox.com/s/65g5s6578arv4ko/Thesis_MCB.pdf?dl=1).  
+Defended at [Center for Genomic Regulation](http://www.crg.eu) and
+[Universitat Pompeu Fabra](https://www.upf.edu/).
+
