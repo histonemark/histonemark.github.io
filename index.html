@@ -1,0 +1,94 @@
+---
+layout: default
+title: Home
+---
+
+<div class='profile-image'><img src='https://s.gravatar.com/avatar/73957679e5bc496324c40b06a264f1cd?s=150'/></div>
+
+<p>Hi! thanks for visiting my corner.<p/>
+My name is Marc Corrales and I was born in a  mediterranean rock
+called
+<a href="https://en.wikipedia.org/wiki/Majorca"
+   target="\_blank">Mallorca</a>, where I studied Biochemistry.
+I love science and computers.<br />
+My interests are varied but they revolve around understanding how matter has been able to organize in <a href="https://en.wikipedia.org/wiki/Systems_theory" target="\_blank">systems</a>
+capable of encoding/interpreting information to implement conditional
+outcomes, i.e how matter implemented <a href="https://en.wikipedia.org/wiki/Control_flow" target="\_blank">control
+flow</a>.<br />
+Examples of fields that draw my attention are: the theory on the origin/s of
+life, cellular “decision making”, evolution, epigenetics, gene regulation
+and more recently neuroscience. I am also attracted to the interface
+of computer science, data analysis and machine learning as ways to
+understand and model these phenomena.</p>
+
+<h2 id="skills">Skills</h2>
+
+<ul>
+  <li>Learning.</li>
+  <li>Molecular Biology.</li>
+  <Li>Next-generation sequencing.</li>
+  <li>Programming.</li>
+  <li>Data Analysis.</li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+
+<p>I did my phD in <a href="http://www.genomearchitecture.com/">Guillaume Filion’s
+lab</a> at the <a href="http://www.crg.eu/en">Center for Genomic
+Regulation</a> (2013-2018).<br />
+The aim of my thesis (<a href="">Text in context: Chromatin effects in gene
+regulation</a>) was to understand the role of chromatin context in gene
+expression. When I started my thesis, several recently published
+projects showed that despite the theoretical combinatorial complexity
+of chromatin factors (i.e. proteins, histone modifications), only a
+few discrete combinations were observed. Moreover these “chromatin
+states” were correlated with different gene expression outcomes.<br />
+As is frequently the case in systems with very correlated features the
+question was if the observed correlations were causal to gene
+expression and why there appeared to be different mechanisms to
+activate and silence transcription. To investigate these questions we
+generated barcoded reporter libraries that we randomly integrated in
+the genome allowing us to measure the chromatin context effect at 
+~ 85.000 different loci.<br/>
+The surprise came when we set to predict the reporter expression with
+the vast amount of chromatin feature maps (~ 120) in addition to the
+three dimensional pattern of contacts.
+The expression of our housekeeping integrated reporters was
+greater when they landed in genomics regions contacting other active
+promoters and terminators: the predicton power was 2X better than when
+using enhancers or the chromatin composition features alone or in
+combination.<br/>
+This data together with the endogenous organization of this type of
+genes allowed us to propose the following interpretation for the
+organization of the Drosophila genome: If frequent contacts with the
+terminators and promoters of active genes increase expression,
+housekeeping genes may benefit from being in spatial proximity to
+other active genes.In contrast, developmentally regulated genes
+should be shielded from transcriptional interference; the same
+principles thus explain why they are typically long and isolated.<br/> 
+Such an organization has the benefit of maintaining activators of
+transcription close to active genes, thereby reducing accidental
+  activation of other genes.</p>
+
+We published our results in Genome Research (go to )
+
+<h2>Recent posts</h2>
+<ul class="posts">
+  {% for post in site.posts %}
+    <li>
+      <h3>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="index-post-date">{{ post.date | date_to_string }}</span>
+      </h3>
+    </li>
+  {% endfor %}
+</ul>
+
+
+<h2>Recent tweets</h2>
+
+<div id='tweets'>
+
+  <a class="twitter-timeline" data-border-color="#bbb" height="320"
+  data-link-color="#39c" href="https://twitter.com/marccobe?ref_src=twsrc%5Etfw">Tweets by marccobe</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+</div>
