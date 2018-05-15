@@ -9,8 +9,9 @@ title: Education
 lab](http://www.genomearchitecture.com/") at the [Center for Genome
 Regulation]("http://www.crg.eu/en").  
 Supervisor: [Dr Guillaume Filion](http://blog.thegrandlocus.com/about).  
-Thesis: [Text in context: Chromatin effects in gene regulation.](https://www.dropbox.com/s/65g5s6578arv4ko/Thesis_MCB.pdf?dl=1)
-Qualification: _Cum laude_ (2013-2018).
+Thesis: [Text in context: Chromatin effects in gene
+regulation](https://www.dropbox.com/s/65g5s6578arv4ko/Thesis_MCB.pdf?dl=1).
+Qualification:_Cum laude_ (2013-2018).
 
 **Master** in Biomedicine (Branch: Genomes and Systems) at [Universistat
 Pompeu fabra](https://www.upf.edu/home).  
