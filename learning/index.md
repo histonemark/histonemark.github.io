@@ -23,8 +23,7 @@ Balears](http://www.uib.eu/).
 
 ## Courses
 
-**Learn to Program**: [The
-Fundamentals](https://www.coursera.org/learn/learn-to-program).  
+**Learn to Program: the fundamentals**:  
 [Coursera](https://www.coursera.org/learn/learn-to-program).  
 
 **Modeling for systems biology**: [Courses@CRG](http://www.crg.eu/en/event/coursescrg-practical-summer-course-modeling-systems-biology-0).  
