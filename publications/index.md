@@ -35,5 +35,5 @@ download](https://www.dropbox.com/s/x3qzs4xs37i1cnb/Marc%20Corrales%20BOG%20%28G
 **Marc Corrales**. ["Text in context: Chromatin effects in gene
 regulation"](https://www.dropbox.com/s/65g5s6578arv4ko/Thesis_MCB.pdf?dl=1).  
 Defended at [Center for Genomic Regulation](http://www.crg.eu) and
-[Universitat Pompeu Fabra](https://www.upf.edu/).
+[Universitat Pompeu Fabra](https://www.upf.edu/) 2018.
 
